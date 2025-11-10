@@ -9,7 +9,7 @@
 
 Soy estudiante de programación con enfoque en el desarrollo de software.  
 Tengo experiencia en **Python, HTML, CSS, JavaScript** y manejo de datos con **JSON**.  
-Cuento con certificación en Git y habilidades para el trabajo en equipo,  
+Cuento con un curso en Git y habilidades para el trabajo en equipo,  
 la comunicación asertiva y la resolución de conflictos.
 
 ---
