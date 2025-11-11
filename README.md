@@ -64,13 +64,13 @@ Incluye interfaz responsive, diseño limpio y sistema de operaciones dinámico.
 
 - 📱 Tel: **(317) 464-3113**  
 - 📧 Email: **santiuribeduarte@gmail.com**  
-- ☎️ Tel. Fijo: **1-0897-099-401**  
+
 
 ---
 
 ## 🔗 Enlaces
 
-- 🔗 GitHub: https://github.com/Santiago8090  
+- 🔗 GitHub: https://github.com/Santiag0809
 - 🔗 LinkedIn: https://www.linkedin.com/in/santiago-uribe-duarte-28963034a/
 
 ---
