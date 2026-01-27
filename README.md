@@ -3,6 +3,18 @@
   Software Developer in training • Python • HTML • CSS • JavaScript
 </p>
 
+---
+
+## 🧑‍💻 About Me
+
+I am a programming student focused on **software development**.  
+I have experience working with **Python, HTML, CSS, JavaScript**, and data handling using **JSON**.  
+I also have knowledge of **Git**, teamwork, assertive communication, and problem-solving.
+
+---
+
+## ⚙ GITHUB PROGRESS
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Santiag0809&show_icons=true&theme=radical" />
 </p>
@@ -14,14 +26,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiag0809&layout=compact&theme=radical" />
 </p>
-
----
-
-## 🧑‍💻 About Me
-
-I am a programming student focused on **software development**.  
-I have experience working with **Python, HTML, CSS, JavaScript**, and data handling using **JSON**.  
-I also have knowledge of **Git**, teamwork, assertive communication, and problem-solving.
 
 ---
 
