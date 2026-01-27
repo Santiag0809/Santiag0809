@@ -3,31 +3,28 @@
   Software Developer in training • Python • HTML • CSS • JavaScript
 </p>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 I am a programming student focused on **software development**.  
 I have experience working with **Python, HTML, CSS, JavaScript**, and data handling using **JSON**.  
 I also have knowledge of **Git**, teamwork, assertive communication, and problem-solving.
 
----
+<br/>
 
-## ⚙ GITHUB PROGRESS
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santiag0809&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Santiag0809&show_icons=true&theme=dark" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Santiag0809&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Santiag0809&theme=radical" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiag0809&layout=compact&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiag0809&layout=compact&theme=radical" />
-</p>
-
----
+<br/>
 
 ## 🚀 Personal Projects
 
@@ -37,51 +34,48 @@ Includes an interactive menu, daily/weekly/monthly reports, and data export to J
 
 ### **2024 · Pokédex Web Application**
 Fully functional Pokédex developed using **native HTML and CSS**, consuming data from the **PokéAPI** through **JavaScript**.  
-Includes Pokémon search, dynamic rendering, type-based information, stats display, and responsive design without external frameworks.
+Includes Pokémon search, dynamic rendering, type-based information, stats display, and responsive design.
 
----
+<br/>
 
 ## 🎓 Education
 
-- **2024 · Secondary Education**  
+- **Bilingual Business Technical High School (2024)**  
   Gimnasio Superior Empresarial Bilingüe School
 
-- **2024 · Bilingual Business Technical High School**  
-  Gimnasio Superior Empresarial Bilingüe School
-
----
+<br/>
 
 ## 🛠️ Skills
 
-### Technical Skills
-- Python  
-- HTML, CSS, JavaScript  
-- Git  
-- Data handling with JSON  
-- SQL & NoSQL Databases  
+**Technical**
+- Python
+- HTML, CSS, JavaScript
+- Git
+- JSON data handling
+- SQL & NoSQL databases
 
-### Soft Skills
-- Oral communication  
-- Idea presentation  
-- Problem-solving  
-- Teamwork  
+**Soft**
+- Oral communication
+- Problem-solving
+- Teamwork
+- Idea presentation
 
----
+<br/>
 
-## 🌎 Languages
+## 🌍 Languages
 
-- Spanish (Native)  
-- English (B1+ – Certified)
+- Spanish — Native  
+- English — B1+ (Certified)
 
----
+<br/>
 
 ## 📫 Contact
 
-- 📧 Email: **santiuribeduarte@gmail.com**  
-- 🔗 GitHub: https://github.com/Santiag0809  
-- 🔗 LinkedIn: https://www.linkedin.com/in/santiago-uribe-duarte-28963034a/
+- 📧 **Email:** santiuribeduarte@gmail.com  
+- 🔗 **GitHub:** https://github.com/Santiag0809  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/santiago-uribe-duarte-28963034a/
 
----
+<br/>
 
 <p align="center">
   <i>"The best way to predict the future is to invent it." — Alan Kay</i>
