@@ -1,87 +1,84 @@
+<h1 align="center">👋 Hi, I'm Santiago Uribe Duarte</h1>
+<p align="center">
+  Software Developer in training • Python • HTML • CSS • JavaScript
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Santiag0809&show_icons=true&theme=radical" />
+</p>
 
-<h1 align="center">👋 Hola, soy Santiago Uribe Duarte</h1>
-<p align="center">Programador en formación • Python • HTML • CSS • JavaScript</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Santiag0809&theme=radical" />
+</p>
 
----
-
-## 🧑‍💻 Sobre mí
-
-Soy estudiante de programación con enfoque en el desarrollo de software.  
-Tengo experiencia en **Python, HTML, CSS, JavaScript** y manejo de datos con **JSON**.  
-Cuento con un curso en Git y habilidades para el trabajo en equipo,  
-la comunicación asertiva y la resolución de conflictos.
-
----
-
-## 🚀 Proyectos Personales
-
-### **2025 · Simulador de gastos personales**
-Aplicación de consola creada en Python usando JSON para registrar, clasificar y analizar gastos.  
-Incluye menú interactivo, reportes diarios/semanales/mensuales y exportación a archivos JSON.
-
-### **2024 · Calculadora Web**
-Proyecto web usando HTML, CSS y JavaScript.  
-Incluye interfaz responsive, diseño limpio y sistema de operaciones dinámico.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiag0809&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## 🎓 Educación
+## 🧑‍💻 About Me
 
-- **2024 · Básico Secundaria**  
-  Colegio Gimnasio Superior Empresarial Bilingüe
-
-- **2024 · Técnico Bachiller Empresarial Bilingüe**  
-  Colegio Gimnasio Superior Empresarial Bilingüe
+I am a programming student focused on **software development**.  
+I have experience working with **Python, HTML, CSS, JavaScript**, and data handling using **JSON**.  
+I also have knowledge of **Git**, teamwork, assertive communication, and problem-solving.
 
 ---
 
-## 🛠️ Habilidades
+## 🚀 Personal Projects
 
-### Técnicas  
+### **2025 · Personal Expense Simulator**
+Console-based application developed in **Python** using **JSON** to record, classify, and analyze expenses.  
+Includes an interactive menu, daily/weekly/monthly reports, and data export to JSON files.
+
+### **2024 · Pokédex Web Application**
+Fully functional Pokédex developed using **native HTML and CSS**, consuming data from the **PokéAPI** through **JavaScript**.  
+Includes Pokémon search, dynamic rendering, type-based information, stats display, and responsive design without external frameworks.
+
+---
+
+## 🎓 Education
+
+- **2024 · Secondary Education**  
+  Gimnasio Superior Empresarial Bilingüe School
+
+- **2024 · Bilingual Business Technical High School**  
+  Gimnasio Superior Empresarial Bilingüe School
+
+---
+
+## 🛠️ Skills
+
+### Technical Skills
 - Python  
 - HTML, CSS, JavaScript  
 - Git  
-- Manejo de datos con JSON
-- Manejo de bases de datos no SQL y SQL 
+- Data handling with JSON  
+- SQL & NoSQL Databases  
 
-### Blandas  
-- Comunicación oral  
-- Presentación de ideas  
-- Resolución de problemas  
-- Trabajo en equipo
-
----
-
-## 🌎 Idiomas
-
-- Español  
-- Inglés (B1+ – Certificate)
+### Soft Skills
+- Oral communication  
+- Idea presentation  
+- Problem-solving  
+- Teamwork  
 
 ---
 
-## 📞 Contacto
+## 🌎 Languages
 
-- 📱 Tel: **(317) 464-3113**  
+- Spanish (Native)  
+- English (B1+ – Certified)
+
+---
+
+## 📫 Contact
+
 - 📧 Email: **santiuribeduarte@gmail.com**  
-
-
----
-
-## 🔗 Enlaces
-
-- 🔗 GitHub: https://github.com/Santiag0809
+- 🔗 GitHub: https://github.com/Santiag0809  
 - 🔗 LinkedIn: https://www.linkedin.com/in/santiago-uribe-duarte-28963034a/
 
 ---
 
-## 👤 Referencias
-
-**Ivan Darío Uribe González**  
-Cloud Architect  
-📱 (316) 894-4342  
-
----
-
-<p align="center"><i>"The best way to predict the future is to invent it. — Alan Kay"</i></p>
-
+<p align="center">
+  <i>"The best way to predict the future is to invent it." — Alan Kay</i>
+</p>
