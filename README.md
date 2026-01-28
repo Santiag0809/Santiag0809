@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Santiago Uribe Duarte</h1>
 <p align="center">
-  Software Developer in training • Python • HTML • CSS • JavaScript
+  software development technician • Python • HTML • CSS • JavaScript • JAVA • SQL
 </p>
 
 <br/>
@@ -17,7 +17,6 @@ I also have knowledge of **Git**, teamwork, assertive communication, and problem
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Santiag0809&show_icons=true&theme=dark" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Santiag0809&theme=dark" />
 </p>
 
 <p align="center">
@@ -32,7 +31,7 @@ I also have knowledge of **Git**, teamwork, assertive communication, and problem
 Console-based application developed in **Python** using **JSON** to record, classify, and analyze expenses.  
 Includes an interactive menu, daily/weekly/monthly reports, and data export to JSON files.
 
-### **2024 · Pokédex Web Application**
+### **2025 · Pokédex Web Application**
 Fully functional Pokédex developed using **native HTML and CSS**, consuming data from the **PokéAPI** through **JavaScript**.  
 Includes Pokémon search, dynamic rendering, type-based information, stats display, and responsive design.
 
