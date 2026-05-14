@@ -22,7 +22,7 @@ Passionate about clean code, continuous learning, and building products that mat
 
 ## 💼 Experience
 
-**Software Development Apprentice — Tiresia Santander** *(2025 · 6 months · Hybrid)*  
+**Software Development Apprentice — Tiresia Santander** *(2026 · 6 months · Hybrid)*  
 Working on software development projects, applying backend and frontend skills in a professional environment.
 
 ---
