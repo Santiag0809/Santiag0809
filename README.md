@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:santiuribeduarte@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/santiago-uribe-duarte-28963034a/">💼 LinkedIn</a> •
+  <a href="mailto:santiuribeduarte@gmail.com">📧 Email</a>
+  <a href="https://www.linkedin.com/in/santiago-uribe-duarte-28963034a/?skipRedirect=true">💼 LinkedIn</a> •
   <a href="https://github.com/Santiag0809">🐙 GitHub</a>
 </p>
 
